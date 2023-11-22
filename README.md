@@ -18,6 +18,24 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+##Program to swap two values:
+##Developed by:Daniel.c
+##Register Number:23008937
+
+
+n=str(input())
+y=str(input())
+a=n
+n=y
+y=a
+
+
+##Output
+
+
+
+
+
 ![image](https://github.com/Daniel-christal/Swapping-two-values/assets/145742847/4fdfba3d-7263-48a6-9004-194116e114b8)
 
 ## RESULT:
