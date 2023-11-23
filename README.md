@@ -18,16 +18,22 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-##Program to swap two values:
-##Developed by:Daniel.c
-##Register Number:23008937
 
+##Program to swap two values:
+
+##Developed by:Daniel.c
+
+##Register Number:23008937
 
 n=str(input())
 y=str(input())
 a=n
 n=y
 y=a
+print("Swapped values are: {} {}".format(n,y))
+
+
+
 
 
 ##Output
