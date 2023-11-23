@@ -24,7 +24,6 @@ End the program
 ##Developed by:Daniel.c
 
 ##Register Number:23008937
-
 n=str(input())
 y=str(input())
 a=n
