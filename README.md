@@ -26,18 +26,11 @@ End the program
 
 ##Register Number:23008937
 n=str(input())
-
 y=str(input())
-
 a=n
-
 n=y
-
 y=a
-
 print("Swapped values are: {} {}".format(n,y))
-
-
 
 
 ```
